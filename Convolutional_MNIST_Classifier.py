@@ -1,3 +1,11 @@
+"""
+    This is an implementation of Convolutional Neural Net for MNIST classification WITHOUT using any Deep Learning Library.
+    
+    numpy FTW!
+
+"""
+
+
 import numpy as np
 import h5py
 from sklearn.model_selection import train_test_split
